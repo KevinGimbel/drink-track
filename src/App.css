@@ -1,0 +1,76 @@
+.app {
+  margin: 0 auto;
+  max-width: 60rem;
+  min-height: 90vh;
+}
+
+.app__header {
+  background: #fff;
+  margin: 2rem auto;
+  padding: 2rem;
+  font-size: 3rem;
+}
+
+.card-wrapper {
+  display: flex;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-top: 4rem;
+  flex-wrap: wrap;
+  width: 110%;
+  margin-left: -5%;
+}
+
+.card-wrap {
+  padding: 1rem;
+  width: 50%;
+}
+
+.card {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  background: #fff;
+  transition: all linear .125s;
+  margin-top: 1.5rem;
+
+}
+
+.card.hoverable:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 12px rgba(0,0,0,0.3);
+  cursor: pointer;
+}
+
+.card__body {
+  padding: 2rem;
+}
+
+.card__icon {
+  padding: 2rem;
+  color: #fff;
+  background: #333;
+  background: var(--color-accent-between);
+  text-align: center;
+  width: 6rem;
+}
+
+
+@media all and (max-width: 1000px) {
+  .card-wrapper {
+    flex-direction: column;
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .card {
+    width: 100%;
+  }
+  .card.hoverable:hover {
+    transform: scale(1);
+  }
+
+  .app__header {
+    font-size: 2rem;
+  }
+}

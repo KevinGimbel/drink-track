@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --color-accent: #E30425;
+  --color-accent-between: #720D5D;
+  --color-accent-hover: #5D1049;
+  --color-page-background: #ddd;
+}
+
+html, body {
+  color: #333;
+  background: var(--color-page-background);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  width: 100%;
+  height: 100%;
+  font-size: 16px;
+}
+
+.app__footer {
+  font-size: 90%;
+  background: #fff;
+  width: 100%;
+  padding: 2rem;
+}
+
+a {
+  color: var(--color-accent);
+}
+
+a:hover {
+  color: var(--color-accent-hover);
+}
+
+.highlight {
+  background: #000;
+  background: var(--color-accent-between);
+  color: #fff;
+  padding: 0 .25em;
+}

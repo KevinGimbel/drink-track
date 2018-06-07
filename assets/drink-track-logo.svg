@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="272px" height="377px" viewBox="0 0 272 377" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>drink-track-logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="drink-track-logo" transform="translate(-92.000000, -26.000000)">
+            <g id="Group">
+                <rect id="Rectangle-6" x="0" y="0" width="431" height="431"></rect>
+                <g id="Bottle" transform="translate(92.000000, 26.000000)">
+                    <path d="M87.9281843,8 L60.0718157,8 C60.6876547,13.0807807 61,18.2612339 61,23.5 C61,70.7447964 35.5672142,109.634887 3.00004169,111.896121 L3,357 C3,366.388841 10.6111593,374 20,374 L128,374 C137.388841,374 145,366.388841 145,357 L145,111.896124 C112.432786,109.634887 87,70.7447964 87,23.5 C87,18.2612339 87.3123453,13.0807807 87.9281843,7.99999954 Z" id="Combined-Shape" stroke="#000000" stroke-width="6" fill="#FFFFFF"></path>
+                    <rect id="Rectangle-4" stroke="#000000" stroke-width="6" fill="#FFFFFF" x="51" y="3" width="46" height="19" rx="9.5"></rect>
+                    <rect id="Rectangle-5" fill="#000000" x="19" y="189" width="111" height="168" rx="16"></rect>
+                    <rect id="Rectangle-2" fill="#000000" x="19" y="189" width="111" height="84"></rect>
+                    <rect id="Rectangle-3" fill="#FFFFFF" x="64" y="15" width="20" height="17"></rect>
+                </g>
+                <g id="Clock" transform="translate(154.000000, 90.000000)">
+                    <circle id="Oval-2" stroke="#000000" stroke-width="12" fill="#FFFFFF" cx="102" cy="102" r="102"></circle>
+                    <rect id="Rectangle-7" fill="#000000" transform="translate(185.000000, 19.495689) rotate(45.000000) translate(-185.000000, -19.495689) " x="173.32969" y="4.29594155" width="23.3406204" height="30.3994949"></rect>
+                    <rect id="Rectangle-8" fill="#000000" x="98" y="25" width="8" height="85"></rect>
+                    <rect id="Rectangle-8" fill="#000000" transform="translate(127.712813, 122.464102) rotate(120.000000) translate(-127.712813, -122.464102) " x="123.712813" y="90.4641016" width="8" height="64"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
