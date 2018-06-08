@@ -10,7 +10,7 @@ class ImprintPage extends Component {
         <p>You can contact him by e-Mail (as listed on <a href="https://www.kevingimbel.com/imprint">kevingimbel.com/imprint</a>) or via <a href="https://twitter.com/_kevinatari">Twitter</a></p>
 
         <h2>About drink-track.link</h2>
-        <p>drink-track.link is a client-side only Web App to drack daily liquid intake. It is currently in an early alpha and things may change without notice.</p>
+        <p>drink-track.link is a client-side only Web App to track daily liquid intake. It is currently in an early alpha and things may change without notice.</p>
         <p>There is no server-side on which data is stored, all data is stored in localStorage on the client.</p>
 
         <h2>Technology</h2>

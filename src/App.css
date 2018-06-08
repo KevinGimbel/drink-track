@@ -63,7 +63,8 @@
     margin-left: 0;
   }
 
-  .card {
+  .card,
+  .card-wrap {
     width: 100%;
   }
   .card.hoverable:hover {
